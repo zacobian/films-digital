@@ -1,2 +1,2 @@
 # films-digital
-The difital era of cinema
+The digital era of cinema
